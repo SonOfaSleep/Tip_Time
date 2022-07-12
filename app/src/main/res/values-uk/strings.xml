@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Час чайових</string>
+    <string name="cost_of_service">На скільки наїли</string>
+    <string name="how_was_the_service">Як сервіс?</string>
+    <string name="calculate">Розрахувати</string>
+    <string name="tip_amount">Розмір чайових: %s</string>
+    <string name="per_person">Чайові з людини: %1$s\n\nВсього з людини: %2$s</string>
+    <string name="round_up_tip">Округлити?</string>
+    <string name="pers_number_warning">Вкажіть кількість людей!</string>
+    <string name="pers_number_zero_warning">Кількість людей повинна бути більше нуля!</string>
+    <string name="fifteen_percent_button">Дуже сподобалось (15%)</string>
+    <string name="ten_percent_button">Добре (10%)</string>
+    <string name="seven_percent_button">Ну такоє… (7%)</string>
+    <string name="number_of_persons_hint">Кількість людей</string>
+</resources>
