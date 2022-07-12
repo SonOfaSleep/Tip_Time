@@ -4,7 +4,7 @@ Tip time is a basic android app developed as part of Google Android Basics cours
 
 As name suggests, it calculates tips... <br />
 You enter cost, number of persons, choose tip size and roundup option, and get tip size and total per person amount.
-Also person(+/-) icons are buttons to add or remove person number. (Entering through keyboard is so boaring sometimes)
+Also person(+/-) icons are buttons to add or remove person number (entering through keyboard is so boaring sometimes.)
 
 App comes in two languages:
 - English (Default for all regions)
