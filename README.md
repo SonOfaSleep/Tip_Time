@@ -1,6 +1,6 @@
 <img width="100" src="https://github.com/Sonofasleep/Tip_Time/blob/master/app/src/main/ic_launcher-playstore.png">
 
-Tip time is a basic Android app developed as part of Google Android basic cource.
+Tip time is a basic android app developed as part of Google Android Basics cource.
 
 As name suggests, it calculates tips... <br />
 You enter cost, number of persons, choose tip size and roundup option, and get tip size and total per person amount.
